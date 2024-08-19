@@ -2,7 +2,7 @@
 <img src="imagens/logo_white.png" alt="Logo do spendSMART">
 </p>
 
-<h1 align="center"> spendSMART </h1>
+<h1> spendSMART </h1>
 O spendSMART é uma aplicação web com o intuito de ajudar a instruir financeiramente usuários e famílias a alcançarem vidas mais estáveis e planejadas. Através de uma interface intuitiva e amigável, os usuários podem monitorar seus gastos, definir orçamentos e visualizar relatórios detalhados sobre suas finanças.
 
 ## Funcionalides
